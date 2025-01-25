@@ -24,7 +24,11 @@ Insights-
 ![newplot (5)](https://github.com/user-attachments/assets/915a01d3-d6ce-4fe9-8478-bb9f931ee936)
  
  ![newplot (6)](https://github.com/user-attachments/assets/519836fe-3462-4962-af24-6b435b16ffff)
- 
+
+   Segment  Sales_to_Profit_Ratio
+0     Consumer               8.659471
+1    Corporate               7.677245
+2  Home Office               7.125416
 
 
  
