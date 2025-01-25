@@ -8,3 +8,7 @@ highest profit.
 5. Analyze the profit by category and sub-category.
 6. Analyze the sales and profit by customer segment
 7. Analyze the sales to profit ratio
+
+
+
+ 
