@@ -1,3 +1,4 @@
+![newplot (1)](https://github.com/user-attachments/assets/3bb78973-98f0-44a7-a63b-db7d69961a67)
 1.You need to calculate the monthly sales of the store and identify which month had the
 highest sales and which month had the lowest sales.
 2. You need to analyze sales based on product categories and determine which category has
